@@ -1,2 +1,2 @@
-# Donut-Game
-Top down game created with Unity
+# DonutGame
+Prototype of donut game
