@@ -1,2 +1,2 @@
 # DonutGame
-Prototype of donut game
+Prototype of donut game made with Unity
