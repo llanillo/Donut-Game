@@ -46,7 +46,7 @@ public class EnemyController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {        
-        //ConfigurePatrolTargets();
+        ConfigurePatrolTargets();
         stateMachine.Initialize(PatrolState);
     }
 
